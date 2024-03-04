@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Hello World");
 console.log(typeof "dude");
 console.log(typeof 88);
 console.log(typeof true);
